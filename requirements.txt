@@ -20,7 +20,7 @@ paddlepaddle==2.5.1
 pafy==0.5.5
 pandas==2.2.2
 Pillow==10.3.0
-pathlib==23.6.0
+pathlib
 psutil==5.9.8
 pycocotools==2.0.7
 PyYAML==6.0.1
