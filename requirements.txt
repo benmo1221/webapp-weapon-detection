@@ -16,7 +16,7 @@ opencv_contrib_python_headless==4.8.0.74
 opencv_python==4.7.0.72
 opencv_python_headless==4.8.0.74
 openvino==2024.1.0
-paddle==1.0.2
+paddle==2.5.1
 pafy==0.5.5
 pandas==2.2.2
 Pillow==10.3.0
