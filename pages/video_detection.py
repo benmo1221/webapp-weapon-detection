@@ -5,7 +5,7 @@ import tempfile
 import torch
 import sys
 import pathlib
-from utils.general import non_max_suppression, scale_boxes
+from general import non_max_suppression, scale_boxes
 
 # Adding a temporary fix for Windows compatibility
 temp = pathlib.PosixPath
