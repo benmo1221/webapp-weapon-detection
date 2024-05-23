@@ -11,7 +11,7 @@ temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
 
 # Importing non-max suppression and scaling functions from utils
-from utils.general import non_max_suppression, scale_boxes
+from general import non_max_suppression, scale_boxes
 
 # Add YOLOv5 repository to Python path
 sys.path.append('yolov5')  # Adjust this path to your yolov5 repository
